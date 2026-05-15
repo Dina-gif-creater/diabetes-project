@@ -106,18 +106,6 @@ The model predicts diabetes risk based on inputs like:
 
 ---
 
-# 📸 Screenshots
-
-## Home Page
-
-(Add Screenshot Here)
-
-## Prediction Result
-
-(Add Screenshot Here)
-
----
-
 # ☁️ Deployment
 
 The application is deployed using:
